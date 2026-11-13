@@ -1,0 +1,16 @@
+{
+  "source": "RR_2027_SupeRR_Selector_Methodology_Report (2).pdf",
+  "analysis_cut": "2026-11-12",
+  "source_deliveries": 200999,
+  "analysed_deliveries": 195303,
+  "valid_matches": 819,
+  "pressure_share_pct": 41.2,
+  "pressure_flags": [
+    "Collapse",
+    "Death overs",
+    "Chase squeeze",
+    "Close finish",
+    "Knockout after powerplay"
+  ],
+  "warning": "These are model-based scouting ratings, not win probabilities or confirmations of 2027 auction availability."
+}
